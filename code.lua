@@ -5,3 +5,4 @@ loadstring(game.HttpService:GetAsync("https://raw.githubusercontent.com/RobloxLi
 function noice(test)
   print(test)
 end
+print("Welcome to the Flexable Roblox Libraru.")
