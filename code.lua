@@ -5,4 +5,5 @@ loadstring(game.HttpService:GetAsync("https://raw.githubusercontent.com/RobloxLi
 function noice(test)
   print(test)
 end
-print("Welcome to the Flexable Roblox Libraru.")
+print("Welcome to the Flexable Roblox Library.")
+print("If you can see this in Roblox Studio then it is working.")
